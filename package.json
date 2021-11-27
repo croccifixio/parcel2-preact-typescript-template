@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "preact": "10.x.x"
+  },
+  "devDependencies": {
+    "parcel": "2.x.x",
+    "typescript": "4.x.x"
+  },
+  "scripts": {
+    "build": "parcel build src/index.html",
+    "start": "parcel src/index.html"
+  }
+}
